@@ -1,9 +1,9 @@
 # reading-notes
 
 
-|Resources    | Summary          | Notes                |
-| :---        |    :----:        |          ---:            |
-| Header      | intro to sql     | [sql](./file/sql.md)          |
-| Paragraph   | terminal command | [terminal](./file/Termenal.md)|
-
+| Resources        | Summary                                    |
+|    :----:        |          ---:                              |
+| intro to sql     | [sql](./file/sql.md)                       |
+| terminal command | [terminal](./file/Termenal.md)             |
+|The Growth Mindset| [Mindset](./file/The%20Growth%20Mindset.md)|
 

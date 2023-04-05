@@ -19,13 +19,14 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 
 
 
-| **Resources**      | **Summary**                                |
-|    :----:          |          ---:                              |
+| **Resources**                      | **Summary**                                            |
+|    :----:                          |          ---:                                          |
 |*Data Structures and Algorithms*    | [Read](./file/Data%20Structures%20and%20Algorithms.md) |
-|*intro to sql*      | [sql](./file/sql.md)                       |
-|*terminal command*  | [terminal](./file/Termenal.md)             |
-|*The Growth Mindset*| [Mindset](./file/The%20Growth%20Mindset.md)|
-|*Read: Class 01*    | [Read](./file/Read%3A%20Class%2001.md)     |
-|*Read: Class 02*    | [Read](./file/Read%3A%20Class%2002.md)     |
-|*Read: Class 03*    | [Read](./file/Read%3A%20Class%2003%20.md)  |
-
+|*Engineering Readings*              | [Read](./file/Engineering%20Readings.md)               |
+|*intro to sql*                      | [sql](./file/sql.md)                                   |
+|*terminal command*                  | [terminal](./file/Termenal.md)                         |
+|*The Growth Mindset*                | [Mindset](./file/The%20Growth%20Mindset.md)            |
+|*Read: Class 01*                    | [Read](./file/Read%3A%20Class%2001.md)                 |
+|*Read: Class 02*                    | [Read](./file/Read%3A%20Class%2002.md)                 |
+|*Read: Class 03*                    | [Read](./file/Read%3A%20Class%2003%20.md)              |
+            

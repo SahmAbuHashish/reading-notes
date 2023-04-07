@@ -1,4 +1,14 @@
 # The Growth Mindset
+
+## Assess emotional intelligence 
+
+increasing my friendship circle and use feedback from others to developmental my emotional intelligence.
+
+## Assess biases
+
+According to the result, I must reconsider some of my actions and thoughts to make improve my self-awareness, curiosity, and courage.
+
+![biases](./Screenshot%202023-04-08%20005349.png)
 ---
 **Upgrade Your Technical Skills with Deliberate Practice**
 

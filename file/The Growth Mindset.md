@@ -49,3 +49,6 @@ Overall, de Botton's message is that success should be defined in a way that pri
 **Upgrade Your Technical Skills with Deliberate Practice**
 
 The author argues that building software alone does not necessarily make a programmer better. To improve one's technical skills, deliberate practice is required, which involves activities designed to effectively improve specific aspects of one's performance. Deliberate practice involves pushing oneself just outside one's comfort zone, repeating activities often, receiving continuous feedback on results, demanding mental exertion, being difficult, and having clear goals. The author recommends setting challenges that push oneself out of their comfort zone, repeatedly work through the same sort of problems, and teach something new. Examples of such challenges include the Matasano Crypto Challenges and Rosalind, both of which are sets of exercises that relentlessly pummel developers with problems that require hard, focused thinking and fiddly solutions, and provide continual feedback. The author encourages programmers to step away from the latest frameworks and databases and set themselves small, finishable challenges that teach them something outside their comfort zone.
+
+
+## Things I want to know more about

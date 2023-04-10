@@ -29,4 +29,5 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 01*                    | [Read](./file/Read%3A%20Class%2001.md)                 |
 |*Read: Class 02*                    | [Read](./file/Read%3A%20Class%2002.md)                 |
 |*Read: Class 03*                    | [Read](./file/Read%3A%20Class%2003%20.md)              |
+|*Read: Class 04*                    | [Read](./file/Read%3A%20Class%2004.md)                 |
             

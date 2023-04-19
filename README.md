@@ -33,5 +33,7 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 05 linked lists*       | [Read](./file/linked%20lists.md)                       |
 |*Read: Class 06*                   | [Read](./file/Read%3A%20Class%2006.md)                  |
 |*Read: Class 07*                   | [Read](./file/Read%3A%20Class%2007.md)                  |
+|*Read: Class 08*                   | [Read](./file/Read%3A%20Class%2008.md)                  |
+
 
             

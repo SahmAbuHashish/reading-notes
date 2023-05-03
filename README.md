@@ -31,10 +31,12 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 03*                    | [Read](./file/Read%3A%20Class%2003%20.md)              |
 |*Read: Class 04*                    | [Read](./file/Read%3A%20Class%2004.md)                 |
 |*Read: Class 05 linked lists*       | [Read](./file/linked%20lists.md)                       |
-|*Read: Class 06*                   | [Read](./file/Read%3A%20Class%2006.md)                  |
-|*Read: Class 07*                   | [Read](./file/Read%3A%20Class%2007.md)                  |
-|*Read: Class 08*                   | [Read](./file/Read%3A%20Class%2008.md)                  |
-|*Read: Class 09*                   | [Read](./file/Read%3A%20Class%2009.md)                  |
+|*Read: Class 06*                    | [Read](./file/Read%3A%20Class%2006.md)                 |
+|*Read: Class 07*                    | [Read](./file/Read%3A%20Class%2007.md)                 |
+|*Read: Class 08*                    | [Read](./file/Read%3A%20Class%2008.md)                 |
+|*Read: Class 09*                    | [Read](./file/Read%3A%20Class%2009.md)                 |
+|*Read: Class 10 Stacks & Queues*    | [Read](./file/Stacks%20%26%20Queues.md)                |
+
 
 
 

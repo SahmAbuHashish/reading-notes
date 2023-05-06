@@ -23,9 +23,9 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |    :----:                          |          ---:                                          |
 |*Data Structures and Algorithms*    | [Read](./file/Data%20Structures%20and%20Algorithms.md) |
 |*Engineering Readings*              | [Read](./file/Engineering%20Readings.md)               |
-|*intro to sql*                      | [sql](./file/sql.md)                                   |
-|*terminal command*                  | [terminal](./file/Termenal.md)                         |
-|*The Growth Mindset*                | [Mindset](./file/The%20Growth%20Mindset.md)            |
+|*intro to sql*                      | [Read](./file/sql.md)                                  |
+|*terminal command*                  | [Read](./file/Termenal.md)                             |
+|*The Growth Mindset*                | [Read](./file/The%20Growth%20Mindset.md)               |
 |*Read: Class 01*                    | [Read](./file/Read%3A%20Class%2001.md)                 |
 |*Read: Class 02*                    | [Read](./file/Read%3A%20Class%2002.md)                 |
 |*Read: Class 03*                    | [Read](./file/Read%3A%20Class%2003%20.md)              |
@@ -36,6 +36,8 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 08*                    | [Read](./file/Read%3A%20Class%2008.md)                 |
 |*Read: Class 09*                    | [Read](./file/Read%3A%20Class%2009.md)                 |
 |*Read: Class 10 Stacks & Queues*    | [Read](./file/Stacks%20%26%20Queues.md)                |
+|*Read: Class 11 Data Analysis*      | [Read](./file/Data%20Analysis.md)                      |
+
 
 
 

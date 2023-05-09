@@ -38,10 +38,4 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 10 Stacks & Queues*    | [Read](./file/Stacks%20%26%20Queues.md)                |
 |*Read: Class 11 Data Analysis*      | [Read](./file/Data%20Analysis.md)                      |
 |*Read: Class 12*                    | [Read](./file/Read%3A%20Class%2012.md)                 |
-
-
-
-
-
-
-            
+|*Read: Class 13 Linear Regressions* | [Read](./file/Linear%20Regressions.md)                 |

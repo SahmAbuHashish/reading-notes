@@ -41,4 +41,6 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 13 Linear Regressions* | [Read](./file/Linear%20Regressions.md)                 |
 |*Read: Class 14 Data Visualization* | [Read](./file/Data%20Visualization.md)                 |
 |*Read: Class 15 Trees*              | [Read](./file/Read%3A%20Class%2015%20Trees.md)         |
+|*Read: Class 16*                    | [Read](./file/Serverless%20Functions.md)               |
+
  

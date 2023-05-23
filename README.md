@@ -43,6 +43,6 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 15 Trees*              | [Read](./file/Read%3A%20Class%2015%20Trees.md)         |
 |*Read: Class 16*                    | [Read](./file/Serverless%20Functions.md)               |
 |*Read: Class 17*                    | [Read](./file/Read%3A%20Class%2017.md)                 |
+|*Read: Class 18 Cryptography*       | [Read](./file/Cryptography.md)                         |
+|*Read: Class 19 Automation*         | [Read](./file/Automation.md)                           |
 
-
- 

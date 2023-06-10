@@ -45,4 +45,6 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 17*                    | [Read](./file/Read%3A%20Class%2017.md)                 |
 |*Read: Class 18 Cryptography*       | [Read](./file/Cryptography.md)                         |
 |*Read: Class 19 Automation*         | [Read](./file/Automation.md)                           |
+|*Read: Class 26 Intro to Django*    | [Read](./file/Intro%20to%20Django.md)                  |
+
 

@@ -47,3 +47,5 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 19 Automation*         | [Read](./file/Automation.md)                           |
 |*Read: Class 26 Intro to Django*    | [Read](./file/Intro%20to%20Django.md)                  |
 |*Read: Class 27 Django Models*      | [Read](./file/Django%20Models.md)                      |
+|*Read: Class 28 Django CRUD*        | [Read](./file/Django%20CRUD%20and%20Forms.md)          |
+

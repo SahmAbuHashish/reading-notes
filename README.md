@@ -49,3 +49,5 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 27 Django Models*      | [Read](./file/Django%20Models.md)                      |
 |*Read: Class 28 Django CRUD*        | [Read](./file/Django%20CRUD%20and%20Forms.md)          |
 |*Read: Class 29*                    | [Read](./file/Django%20Custom%20User.md)               |
+|*Read: Class Hashtables*            | [Read](./file/Hashtables.md)                           |
+

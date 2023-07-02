@@ -51,5 +51,4 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 29*                    | [Read](./file/Django%20Custom%20User.md)               |
 |*Read: Class Hashtables*            | [Read](./file/Hashtables.md)                           |
 |*Read: Class 31*                    | [Read](./file/Read%3A%20Class%2031.md)                 |
-
-
+|*Read: Class 32*                    | [Read](./file/Permissions%20%26%20Postgresql.md)       |

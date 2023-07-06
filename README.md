@@ -52,3 +52,5 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class Hashtables*            | [Read](./file/Hashtables.md)                           |
 |*Read: Class 31*                    | [Read](./file/Read%3A%20Class%2031.md)                 |
 |*Read: Class 32*                    | [Read](./file/Permissions%20%26%20Postgresql.md)       |
+|*Read: Class 33*                    | [Read](./file/Read%3A%20Class%2033.md)                 |
+|*Read: Class API Deployment*        | [Read](./file/API%20Deployment.md)                     |

@@ -6,18 +6,20 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 ---
 
 ## Code 102 - Intro to Software Development
+
 ---
 
 ## Code 201 - Foundations of Software Development
+
 ---
 
 ## Code 301 - Intermediate Software Development
+
 ---
 
 ## Code 401 - Advanced Software Developmen
+
 ---
-
-
 
 | **Resources**                      | **Summary**                                            |
 |    :----:                          |          ---:                                          |
@@ -55,3 +57,5 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 33*                    | [Read](./file/Read%3A%20Class%2033.md)                 |
 |*Read: Class API Deployment*        | [Read](./file/API%20Deployment.md)                     |
 |*Read: Class 35 Graphs*             | [Read](./file/Read:%20Class%2035%20Graphs.md)          |
+|*Read: Class DSA Review*            | [Read](./file/DSA%20Review.md)                         |
+|*Read: Class React 1*               | [Read](./file/React%201.md)                            |

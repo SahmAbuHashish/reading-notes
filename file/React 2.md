@@ -45,4 +45,4 @@ By leveraging conditional rendering, React components can dynamically adapt thei
 
 React can change how you think about the designs you look at and the apps you build. When you build a user interface with React, you will first break it apart into pieces called components. Then, you will describe the different visual states for each of your components. Finally, you will connect your components together so that the data flows through them.
 
-"Thinking in React" refers to a set of principles and guidelines that guide the process of designing and building a React application. It helps developers approach React development in a structured and efficient manner. The main principles behind "Thinking in React" are as follows:
+"Thinking in React" refers to a set of principles and guidelines that guide the process of designing and building a React application. It helps developers approach React development in a structured and efficient manner.

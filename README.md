@@ -59,3 +59,4 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class 35 Graphs*             | [Read](./file/Read:%20Class%2035%20Graphs.md)          |
 |*Read: Class DSA Review*            | [Read](./file/DSA%20Review.md)                         |
 |*Read: Class React 1*               | [Read](./file/React%201.md)                            |
+|*Read: Class React 2*               | [Read](./file/React%202.md)                            |

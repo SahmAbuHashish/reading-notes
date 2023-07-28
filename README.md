@@ -61,3 +61,4 @@ This repo contains my personal notes for the courses, I'm taking in software dev
 |*Read: Class React 1*               | [Read](./file/React%201.md)                            |
 |*Read: Class React 2*               | [Read](./file/React%202.md)                            |
 |*Read: Class React 3*               | [Read](./file/React%203.md)                            |
+|*Read: Class React 4*               | [Read](./file/React%204.md)                            |
